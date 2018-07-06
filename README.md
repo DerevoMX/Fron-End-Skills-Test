@@ -6,7 +6,7 @@
     
     2. Build it 🧠 ⚙️ 🤖
 
-    3. Submit your code 🚀 to
+    3. Submit your code 🚀 to karla.pacheco @ derevo.com.mx
 
 ## Full Instructions
 
@@ -25,7 +25,7 @@
 
     6. You can use any library to get the job done! (Angular, Vue, React or any other are welcome).
 
-    7. Zip your code and send it to <karla.pacheco@derevo.com.mx>
+    7. Zip your code and send it to karla.pacheco @ derevo.com.mx
 
     8. You have 5 hours to complete the code (don't worry if you don't finish, submit your progress anyway).
     
