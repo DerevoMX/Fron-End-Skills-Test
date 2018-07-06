@@ -33,8 +33,8 @@
 
 ## Desktop View
 
-![Desktop View](./Full Page Desktop (Table).png "Desktop View")
+![Desktop View](Full%20Page%20Desktop%20(Table).png?raw=true "Desktop View")
 
 ## Mobile View
 
-![Mobile View](./Full Page Mobile (Table).png "Mobile View")
+![Mobile View](Full%20Page%20Mobile%20(Table).png?raw=true "Mobile View")
