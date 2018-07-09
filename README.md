@@ -1,6 +1,6 @@
 # Front-End Developer Skill Test
 
-## Quick Instructions
+## Quick Guide
 
     1. Clone it 📋 👯‍♀️ 📋 👯‍♂️
     
@@ -15,7 +15,7 @@
     1. Clone the repository (Don't fork the code as others may use your code to get
        some time advantage).
 
-    2. Build a web page like Mockups (desktop / mobile) using web technologies. The closer you get to replicate the exact appearance the better.
+    2. Build a web page like showed on the Mockups (desktop / mobile) using web technologies. The closer you get to replicate the exact appearance the better.
 
     3. User the images on the assets folder to build the web site (remember you have a few hours to complete).
 
