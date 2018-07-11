@@ -17,7 +17,7 @@
 
     2. Build a web page like showed on the Mockups (desktop / mobile) using web technologies. The closer you get to replicate the exact appearance the better.
 
-    3. User the images on the assets folder to build the web site (remember you have a few hours to complete).
+    3. Use the images on the assets folder to build the web site (remember you have a few hours to complete).
 
     4. Responsiveness is a must! so take your time to create styles for mobile devices as well.
 
