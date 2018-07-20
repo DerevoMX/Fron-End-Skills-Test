@@ -17,11 +17,11 @@
 
     2. Build a web page like showed on the Mockups (desktop / mobile) using web technologies. The closer you get to replicate the exact appearance the better.
 
-    3. Use the images on the assets folder to build the web site (remember you have a few hours to complete).
+    3. Use the images on the assets folder to build the web site (remember you only have a few hours to complete).
 
     4. Responsiveness is a must! so take your time to create styles for mobile devices as well.
 
-    5. The table at the bottom must be filled in with data from the swapi API. Specifically, the People route https://swapi.co/api/people/
+    5. The table at the bottom must be filled in with data from the swapi API. Specifically, the People list https://swapi.co/api/people/
 
     6. You can use any library to get the job done! (Angular, Vue, React or any other are welcome).
 
